@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://www.linkedin.com/in/kj-rahil/overlay/background-image)
+([https://www.linkedin.com/in/kj-rahil/overlay/background-image](https://www.linkedin.com/in/kj-rahil/overlay/background-image/))
 
 <h1 align="center">Hi 👋, I'm Md. Kamrujjaman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
