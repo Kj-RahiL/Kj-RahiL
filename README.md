@@ -8,6 +8,9 @@ I’m a Jr. Web developer who is passionate about making error-free websites wit
 
 Skills: Express.js / Node.js / REACT / MongoDB/ Firebase/ JavaScript / HTML / CSS
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kj-RahiL&theme=neon&hide_border=true&mode=weekly&hide_current_streak=true)](https://git.io/streak-stats)
+
 - 🔭 I’m currently working on this page. 
 
 
