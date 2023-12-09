@@ -15,11 +15,12 @@ I’m a Jr. Web developer who is passionate about making error-free websites wit
 [![Facebook](https://img.shields.io/badge/Facebook-%1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/kj.rahil)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rahiilarham@gmail.com)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kj-RahiL&theme=neon&hide_border=true)](https://git.io/streak-stats)
 
 ## [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Kj-RahiL)  GITHUB STATISTICS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kj-RahiL)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kj-RahiL&show_icons=true)  
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kj-RahiL&theme=neon&hide_border=true)](https://git.io/streak-stats)
 
 
 ## 🚀 Tech Stack
