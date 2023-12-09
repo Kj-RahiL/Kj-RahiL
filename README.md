@@ -24,34 +24,32 @@ I’m a Jr. Web developer who is passionate about making error-free websites wit
 
 ## 🚀 Tech Stack
 
-- **Programming Language:** ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=white)
+- **Programming Language:**   ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=white)
 
 - **Frontend:**
-  - ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-  - ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-  - ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=white)
+   ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+   ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+   ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=white)
 
 - **Framework:**
-  - ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%231a202c.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-  - ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white)
+   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%231a202c.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+   ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white)
 
 - **Library:**
-  - ![DaisyUI](https://img.shields.io/badge/DaisyUI-%23212121.svg?style=flat-square)
-  - ![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=flat-square&logo=material-ui&logoColor=white)
+   ![DaisyUI](https://img.shields.io/badge/DaisyUI-%23212121.svg?style=flat-square)
+   ![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=flat-square&logo=material-ui&logoColor=white)
 
 - **Backend:**
-  - ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
-  - ![Express](https://img.shields.io/badge/Express-%23000000.svg?style=flat-square&logo=express&logoColor=white)
+   ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
+   ![Express](https://img.shields.io/badge/Express-%23000000.svg?style=flat-square&logo=express&logoColor=white)
 
-- **Database:**
-  - ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
+- **Database:**   ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
 
-- **Authentication:**
-  - ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
+- **Authentication:**   ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
     
-- **Tools:** 
-  - ![Git Icon](https://github.com/github/explore/raw/main/topics/git/git.png)
-  - ![Webpack Icon](https://github.com/webpack/media/raw/main/logo/icon.png)
+- **Tools:**
+   ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
+   ![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=flat-square&logo=webpack&logoColor=black)
 
 
 
