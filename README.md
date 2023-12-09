@@ -6,16 +6,17 @@
 
 I’m a Jr. Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.  I pride myself on doing quality work and maintaining excellent communication.  I enjoy working with include MERN stack project.
 
-Skills: Express.js / Node.js / REACT / MongoDB/ Firebase/ JavaScript / HTML / CSS
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kj-rahil&label=Profile%20views&color=0e75b6&style=flat" alt="kj-rahil" /> </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kj-RahiL&theme=neon&hide_border=true)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on this page. 
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kj-rahil&label=Profile%20views&color=0e75b6&style=flat" alt="kj-rahil" /> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/kj-rahil)
+[![Facebook](https://img.shields.io/badge/Facebook-%1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/kj.rahil)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rahiilarham@gmail.com)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
