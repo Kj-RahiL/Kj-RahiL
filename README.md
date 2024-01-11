@@ -50,7 +50,6 @@ I’m a Jr. Web developer who is passionate about making error-free websites wit
     
 - **Tools:**
    ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
-   ![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=flat-square&logo=webpack&logoColor=black)
 
 
 
