@@ -4,7 +4,7 @@
 <h3 align="center">A passionate MERN_Stack developer from Bangladesh.🚀</h3>
 
 
-I’m a MERN-Stack developer who is passionate about making error-free websites with 100% client satisfaction. I specialize in building interactive, responsive, and scalable web applications using MongoDB, Express.js, React/Next.js, and Node.js. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.  I pride myself on doing quality work and maintaining excellent communication. I wanna growth my skills in web related site. I enjoy working with include MERN stack project.
+<p>I’m a MERN-Stack developer who is passionate about making error-free websites with 100% client satisfaction. I specialize in building interactive, responsive, and scalable web applications using <span font="bold">MongoDB, Express.js, React/Next.js, and Node.js</span>. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.  I pride myself on doing quality work and maintaining excellent communication. I wanna growth my skills in web related site. I enjoy working with include MERN stack project. <p/> <br/>
 💡 Always learning, growing, and staying updated with the latest web technologies.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kj-rahil&label=Profile%20views&color=0e75b6&style=flat" alt="kj-rahil" /> </p>
