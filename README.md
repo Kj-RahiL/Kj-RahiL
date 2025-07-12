@@ -89,7 +89,7 @@ I am currently open to new opportunities where I can apply my backend expertise 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/kj-rahiil)
 [![Facebook](https://img.shields.io/badge/Facebook-%1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/kj.rahil)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rahiilarham@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)]([https://yourportfolio.com](https://kj-portfolio-tau.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)](https://kj-portfolio-tau.vercel.app)
 
 ---
 
