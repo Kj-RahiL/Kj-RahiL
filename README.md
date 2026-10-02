@@ -1,97 +1,124 @@
-![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/Kj-RahiL/Kj-RahiL/refs/heads/main/Banner%20.png)
+<img src="https://raw.githubusercontent.com/Kj-RahiL/Kj-RahiL/refs/heads/main/Banner%20.png" alt="Banner" width="100%" />
 
-<h1 align="center">Hi 👋, I'm Md. Kamrujjaman Rahi</h1>
-<h3 align="center">Full Stack Web Developer | Specialized in Backend Development</h3>
+<div align="center">
 
+# Hi 👋, I'm Md. Kamrujjaman Rahi
 
-# About Me
+<a href="https://github.com/Kj-RahiL">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=AI-Driven+Full+Stack+Developer;Full+Stack+%2B+AI%2FML+%7C+Python+%26+TypeScript;Building+AI-powered+products+end+to+end;Growing+towards+AI+Engineering" alt="Typing SVG" />
+</a>
 
-I’m a Full Stack Web Developer with a strong focus on backend engineering. I specialize in building scalable, maintainable backend systems using technologies such as Node.js, Express, Prisma ORM, PostgreSQL, and GraphQL. I take pride in crafting clean and efficient APIs with a strong emphasis on performance and best practices.
+<br/>
 
-On the frontend side, I’m proficient in Next.js, Redux, and TypeScript, and I enjoy delivering seamless user experiences backed by robust infrastructure.
+[![Portfolio](https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=vercel&logoColor=white)](https://kj-portfolio-tau.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kj-rahiil)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahiilarham@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/kj.rahil)
 
-I’m always open to opportunities where I can contribute to meaningful projects, solve challenging problems, and continue growing as a developer.
+![Profile views](https://komarev.com/ghpvc/?username=kj-rahil&label=Profile%20views&color=0e75b6&style=flat)
 
-I am currently open to new opportunities where I can apply my backend expertise while leveraging my full-stack development capabilities.
-
-💡 **Always learning, growing, and staying updated with the latest web technologies.**
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kj-rahil&label=Profile%20views&color=0e75b6&style=flat" alt="kj-rahil" /> </p>
-
-
-## [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Kj-RahiL)  GITHUB STATISTICS
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kj-RahiL&theme=neon&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kj-RahiL&show_icons=true&theme=neon&hide_border=true)  
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kj-RahiL&theme=neon&hide_border=true)](https://git.io/streak-stats)
-
+</div>
 
 ---
 
-## 🚀 Tech Stack
+## 👨‍💻 About Me
 
-### **💻 Programming Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-
-### **🌐 Frontend**
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%231a202c.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=flat-square&logo=redux&logoColor=white)
-
-### **🎨 UI Libraries**
-![DaisyUI](https://img.shields.io/badge/DaisyUI-%23212121.svg?style=flat-square)
-![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=flat-square&logo=material-ui&logoColor=white)
-![NextUI](https://img.shields.io/badge/NextUI-%23000000.svg?style=flat-square)
-![Shadcn](https://img.shields.io/badge/Shadcn-%23333333.svg?style=flat-square)
-![Ant Design](https://img.shields.io/badge/Ant_Design-%230170FE.svg?style=flat-square&logo=ant-design&logoColor=white)
-
-### **⚙️ Backend**
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-%23000000.svg?style=flat-square&logo=express&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-%23000000.svg?style=flat-square&logo=socket.io&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=flat-square&logo=graphql&logoColor=white)
-
-### **🗄️ Database & ORM**
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-%236CAA34.svg?style=flat-square&logo=mongoose&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-%23020202.svg?style=flat-square&logo=prisma&logoColor=white)
-
-### **🔐 Authentication**
-![NextAuth](https://img.shields.io/badge/NextAuth-%23000000.svg?style=flat-square&logo=next.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
-
-### **💡 Animations**
-![AOS](https://img.shields.io/badge/AOS-%2334B5C9.svg?style=flat-square)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-%23000000.svg?style=flat-square&logo=framer&logoColor=white)
-
-### **🧰 Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-%2320232a.svg?style=flat-square&logo=githubactions&logoColor=white)
-
-### **🚀 DevOps (Beginner Knowledge)**
-- AWS Basics
-- Docker & Containerization
-- CI/CD Workflows
+I'm an **AI-driven full stack developer** with about 1.5 years of professional experience. I build complete products, from APIs and databases to the UI, and I add AI features (LLM integrations, chat assistants, data-driven insights) where they actually help. I'm moving towards **AI Engineering** and studying ML properly alongside my day-to-day web work.
+ 
+- 🛠️ Day to day: **Node.js, Express, Prisma, PostgreSQL, Next.js, TypeScript**
+- 🏢 Worked on a cloud-based restaurant POS SaaS and several production client systems
+- 🐍 Also work with **Python and FastAPI**, and I'm studying **ML/AI** (scikit-learn, PyTorch)
+- 📚 Currently learning: **PyTorch**, ML fundamentals and **Data Structures & Algorithms**
+- 📍 Based in Bangladesh
+- 🟢 **Open to new opportunities** (backend or full stack)
 
 ---
 
-### 📫 **Connect with Me**
+## 🧰 Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/kj-rahiil)
-[![Facebook](https://img.shields.io/badge/Facebook-%1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/kj.rahil)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rahiilarham@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)](https://kj-portfolio-tau.vercel.app)
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+**Database & Auth**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
+![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**AI / ML** (PyTorch is still in the learning phase)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=flat-square)
+
+**Tools** (DevOps is at a beginner level)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
 
 ---
 
-*Thanks for visiting my profile!*
+## 🚀 Projects
 
+| Project | What it is | Stack |
+|---|---|---|
+| [**Finance AI Pro**](https://github.com/Kj-RahiL/Finance-ai-pro) | Personal finance app: expense and budget tracking, invoicing, and an AI chatbot for insights | Python, FastAPI, React/Next.js, PostgreSQL, LLM API |
+| [**Engaze**](https://engaze.ai) | Cloud-based restaurant management and POS platform (web and mobile), covering inventory, recipes, orders and payments | React, Context API, React Native |
+| [**Healixity**](https://healixity.com) | Health marketplace platform | MERN stack |
+| [**ChifsCircle**](https://github.com/Kj-RahiL/recipe-sharing-client) | Recipe sharing platform | MERN stack |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kj-RahiL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kj-RahiL&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=Kj-RahiL&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ Thanks for stopping by. If something here looks interesting, feel free to reach out.
+
+</div>
